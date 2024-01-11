@@ -1,3 +1,6 @@
 ## Lab Report 1
 
-![Image](IMG_0293.jpeg)
+```
+# Testing out cd
+![Image](IMG_0295.jpeg)
+``` 
