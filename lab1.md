@@ -1,4 +1,4 @@
-# cse15l-lab-reports-example
+# cse15l-lab-reports
 ---
 ## Lab Report 1
 ---
