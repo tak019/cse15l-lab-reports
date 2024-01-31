@@ -19,4 +19,6 @@ Examples for `/add-messages`
 The private key absolute path is `/c/User/XChip/.ssh/id_ed25519`
 
 ---
-This is the absolute path to the private directory in the ieng6 system:
+The absolute path to the private directory in the ieng6 system is:
+![Image](public.PNG)
+
