@@ -22,3 +22,6 @@ The private key absolute path is `/c/User/XChip/.ssh/id_ed25519`
 The absolute path to the private directory in the ieng6 system is:
 ![Image](public.PNG)
 
+---
+Over the past few weeks of lab, I have learned many things including how to work GitHub as I have used it before to download files, but I had never created files myself. This meant that I had to learn everything from scratch and the lab instructions and examples helped me greatly in this process. I know I still have a lot to learn and with the help of this course, I hope to better understand GitHub and coding/techniques in general.
+
