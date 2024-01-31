@@ -1,7 +1,7 @@
 # Lab Report 2
 
 Code for ChatServer.java:
-![Image](ChatServer.PNG)
+![Image](ChatServer1.PNG)
 ---
 
 Examples for `/add-messages`
