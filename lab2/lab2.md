@@ -15,3 +15,8 @@ Examples for `/add-messages`
 - The arguments here are `user` and `message` and when the URL receives the input from `/add-message/` it updates the field, `fullMessage`, combining them
 - The parameter `message` includes spaces within it now so the output will replace the spaces with the symbol, %, because URLs cannot have spaces. The `user` parameter works the same as the first example.
 ---
+
+The private key absolute path is `/c/User/XChip/.ssh/id_ed25519`
+
+---
+This is the absolute path to the private directory in the ieng6 system:
