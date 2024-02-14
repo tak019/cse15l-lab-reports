@@ -104,6 +104,7 @@ C:\Users\XChip\OneDrive\Documents\GitHub\docsearch>find ./technical -type d -nam
 ```
 
 This command combines `-type d` with `-name` to find directories with names matching the pattern within the directory. It's handy for narrowing down directory searches based on specific naming patterns.
+
 ---
 Using -mtime
 ```
@@ -134,6 +135,7 @@ find ./technical -size -100k -name "*.txt"
 ```
 
 This command combines -size with -name to find text files within the ./technical directory that are smaller than 100 kilobytes. It's handy for locating and managing small files.
+
 ---
 Using -maxdepth
 ```
