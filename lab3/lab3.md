@@ -128,6 +128,23 @@ find ./technical -size -100k -name "*.txt"
 *Another big code block*
 ```
 This command combines -size with -name to find text files within the ./technical directory that are smaller than 100 kilobytes. It's handy for locating and managing small files.
+---
+Using -maxdepth
+```
+C:\Users\XChip\OneDrive\Documents\GitHub\docsearch>find ./technical -maxdepth 1 -type d
+./technical
+./technical/911report
+./technical/biomed
+./technical/government
+./technical/plos
+```
+This command restricts the search to only the immediate subdirectories of ./technical, excluding nested directories. It's useful when you want to focus on a specific level of directory structure.
+
+```
+find ./technical -maxdepth 2 -name "*.txt"
+*A big text block containing .txt files*
+```
+This command limits the search to a maximum depth of 2 levels within the ./technical directory and finds all text files. It helps search within a specific depth range.
 
 
 Source:https://man7.org/linux/man-pages/man1/find.1.html
