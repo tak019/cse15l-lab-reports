@@ -76,8 +76,7 @@ static List<File> getFiles(File start) throws IOException {
 }
 ```
 ---
-### Explanation:
-The bug within the method 'getFiles' is that it adds the `start` file to the result list before checking whether or not it's a directory. This causes the start file to be duplicated into the result list whenever `start` is a directory. In the fixed code, the `start` file is now only added to the result list if it's a directory, preventing duplication of the start file into the result list when processing directories.
+Explanation: The bug within the method 'getFiles' is that it adds the `start` file to the result list before checking whether or not it's a directory. This causes the start file to be duplicated into the result list whenever `start` is a directory. In the fixed code, the `start` file is now only added to the result list if it's a directory, preventing duplication of the start file into the result list when processing directories.
 ---
 ## Part 2
 Using -type
