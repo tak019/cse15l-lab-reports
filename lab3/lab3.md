@@ -101,6 +101,23 @@ C:\Users\XChip\OneDrive\Documents\GitHub\docsearch>find ./technical -type d -nam
 ./technical/911report
 ```
 This command combines `-type d` with `-name` to find directories with names matching the pattern within the directory. It's handy for narrowing down directory searches based on specific naming patterns.
+---
+Using -mtime
+```
+find ./technical -mtime -7
+*Really Big Text Block
+```
+This command finds files within the directory that have been modified in the last 7 days. It's useful for locating recently modified files for backup or maintenance tasks.
+```
+find ./technical/biomed -mtime -7
+```
+This command searches a specific directory and returns files that have been modified in the last 7 days. It is useful if you are modifying one directory mainly and want to see which ones have been modified.
+---
+Using
+
+
+
+Source:https://man7.org/linux/man-pages/man1/find.1.html
 
 
 
