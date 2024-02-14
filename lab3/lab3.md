@@ -1,4 +1,5 @@
 # Lab Report 3
+
 ## Part 1
 Failure-inducing input:
 ```
@@ -76,4 +77,31 @@ static List<File> getFiles(File start) throws IOException {
 ```
 ---
 Explanation:
-The bug is that the method `getFiles` adds the `start` file to the result list before checking if it's a directory. This results in duplication of the start file in the result list when `start` is a directory. In the fixed code, the `start` file is only added to the result list if it's a directory. This prevents duplication of the start file in the result list when processing directories.
+The bug within the method 'getFiles' is that it adds the `start` file to the result list before checking whether or not it's a directory. This causes the start file to be duplicated into the result list whenever `start` is a directory. In the fixed code, the `start` file is now only added to the result list if it's a directory, preventing duplication of the start file into the result list when processing directories.
+---
+## Part 2
+Using -type
+```
+C:\Users\XChip\OneDrive\Documents\GitHub\docsearch>find ./technical -type d
+./technical
+./technical/911report
+./technical/biomed
+./technical/government
+./technical/government/About_LSC
+./technical/government/Alcohol_Problems  
+./technical/government/Env_Prot_Agen     
+./technical/government/Gen_Account_Office
+./technical/government/Media
+./technical/government/Post_Rate_Comm    
+./technical/plos
+```
+This command finds and lists only directories within the ./technical directory. It's useful when you want to specifically target directories for further processing or inspection.
+
+```
+C:\Users\XChip\OneDrive\Documents\GitHub\docsearch>find ./technical -type d -name "911report*"    
+./technical/911report
+```
+This command combines `-type d` with `-name` to find directories with names matching the pattern within the directory. It's handy for narrowing down directory searches based on specific naming patterns.
+
+
+
