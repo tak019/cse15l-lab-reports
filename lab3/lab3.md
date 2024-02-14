@@ -78,6 +78,7 @@ static List<File> getFiles(File start) throws IOException {
 ---
 
 Explanation: The bug within the method `getFiles` is that it adds the `start` file to the result list before checking whether or not it's a directory. This causes the start file to be duplicated into the result list whenever `start` is a directory. In the fixed code, the `start` file is now only added to the result list if it's a directory, preventing duplication of the start file into the result list when processing directories.
+
 ---
 ## Part 2
 Using -type
@@ -120,6 +121,7 @@ find ./technical/biomed -mtime -7
 ```
 
 This command searches a specific directory and returns files that have been modified in the last 7 days. It is useful if you are modifying one directory mainly and want to see which ones have been modified.
+
 ---
 Using -size
 ```
