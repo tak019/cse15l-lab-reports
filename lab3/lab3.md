@@ -105,16 +105,29 @@ This command combines `-type d` with `-name` to find directories with names matc
 Using -mtime
 ```
 find ./technical -mtime -7
-*Really Big Text Block
+*Really Big Code Block*
 ```
 This command finds files within the directory that have been modified in the last 7 days. It's useful for locating recently modified files for backup or maintenance tasks.
+
 ```
 find ./technical/biomed -mtime -7
+*Really big code block containing files from biomed*
 ```
 This command searches a specific directory and returns files that have been modified in the last 7 days. It is useful if you are modifying one directory mainly and want to see which ones have been modified.
 ---
-Using
+Using -size
+```
+C:\Users\XChip\OneDrive\Documents\GitHub\docsearch>find ./technical -size 1k
+./technical/plos/pmed.0020191.txt
+./technical/plos/pmed.0020226.txt
+```
 
+This command finds files within the ./technical directory that are smaller than 1 kibibyte (other options available too. It's useful for identifying large files that may need attention or removal to free up disk space.
+```
+find ./technical -size -100k -name "*.txt"
+*Another big code block*
+```
+This command combines -size with -name to find text files within the ./technical directory that are smaller than 100 kilobytes. It's handy for locating and managing small files.
 
 
 Source:https://man7.org/linux/man-pages/man1/find.1.html
