@@ -38,4 +38,9 @@ Non-failure-inducing input:
 
 ```
 ---
-
+Fail Output:
+![Image](fail.PNG)
+---
+Success Ouput:
+![Image](succeed.PNG)
+---
