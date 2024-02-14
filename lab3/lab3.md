@@ -1,6 +1,6 @@
-#Lab Report 3
+# Lab Report 3
 
-##Part 1
+## Part 1
 Failure-inducing input:
 ```
     @Test
