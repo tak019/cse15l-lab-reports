@@ -11,3 +11,9 @@ Keys pressed: `git clone git@github.com:tak019/lab7.git <enter>`
 
 Git clone allows me to clone the lab7 repository using its SSH URL
 ![Image](clone.PNG) 
+
+## Step 6
+Keys pressed: `bash test.sh <enter>`
+
+Using bash I can run the tester file to check if there are any failures.
+![Image](test.PNG)
