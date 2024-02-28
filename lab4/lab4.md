@@ -17,3 +17,7 @@ Keys pressed: `bash test.sh <enter>`
 
 Using bash I can run the tester file to check if there are any failures.
 ![Image](failed.PNG)
+
+
+## Step 7 
+Keys pressed: `vim ListExamples.java <enter>` then, `43j e l i <backspace> "2" esc :wq <enter>`
