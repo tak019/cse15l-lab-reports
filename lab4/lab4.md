@@ -1,5 +1,8 @@
 # Lab 4 
 
 ## Step 4
-Keys I pressed `ssh tak019@ieng6.ucsd.edu <enter>`
+Keys pressed: `ssh tak019@ieng6.ucsd.edu <enter>`
+Tpying ssh allows me to login into ieng6 with my account `tak019`
 ![Image](login.PNG)
+
+## Step 5
