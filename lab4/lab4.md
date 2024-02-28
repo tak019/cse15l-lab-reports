@@ -35,5 +35,5 @@ Using bash I can re-run the tester file to check if all the tests now pass.
 ## Step 9
 Keys pressed: `git add ListExamples.java, git commit -m "Updated", git push`
 
-![Image](commit.PNG)
 To commit from bash onto GitHub I would first have to use `add` to change the working directory. Then I had to use `commit -m` to commit the change and add a commit message. Finally, using `push` I was able to actually implement the change onto my GitHub library.
+![Image](commit.PNG)
