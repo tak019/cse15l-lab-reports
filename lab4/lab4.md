@@ -21,3 +21,6 @@ Using bash I can run the tester file to check if there are any failures.
 
 ## Step 7 
 Keys pressed: `vim ListExamples.java <enter>` then, `43j e l i <backspace> "2" esc :wq <enter>`
+
+I first used `vim` to access the ListExamples.java file to edit and fix the error. Then I used a combination of keystrokes `43j` (down 43 lines), `e` (last letter of the word), `l` (move right one space), `i` (begin inserting3444), and `:wq` (save and quit)
+![Image](fixed.PNG)
