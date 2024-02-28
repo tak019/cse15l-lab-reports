@@ -24,3 +24,12 @@ Keys pressed: `vim ListExamples.java <enter>` then, `43j e l i <backspace> "2" e
 
 I first used `vim` to access the ListExamples.java file to edit and fix the error. Then I used a combination of keystrokes starting with `43j` (down 43 lines), `e` (last letter of the word), `l` (move right one space), `i` (begin inserting3444), and `:wq` (save and quit)
 ![Image](fixed.PNG)
+
+## Step 8
+Keys Pressed: `bash test.sh <enter>`
+
+Using bash I can re-run the tester file to check if all the tests now pass.
+![Image](success.PNG)
+
+## Step 9
+Keys pressed: `git add ListExamples.java, git commit -m "Updated", git push`
