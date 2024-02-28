@@ -16,4 +16,4 @@ Git clone allows me to clone the lab7 repository using its SSH URL
 Keys pressed: `bash test.sh <enter>`
 
 Using bash I can run the tester file to check if there are any failures.
-![Image](test.PNG)
+![Image](fail.PNG)
