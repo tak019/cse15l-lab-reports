@@ -30,8 +30,8 @@ Hope this helps!
 ---
 
 I just looked back and found the spelling errors and fixed the indexing for the `result.add`. Thank you so much!
-![Image](works1.PNG)
 ![Image](works2.PNG)
+![Image](works1.PNG)
 
 ---
 Part 2
