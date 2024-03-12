@@ -24,11 +24,11 @@ Oh sorry here is my code
 ![Image](download.png) TA
 Hi Tam, 
 
-It seems that the error you are coming across relates to your grammar and logic within the code. I would advise you to double-check and make sure that all your words are written correctly.
-
+It seems that the error you are coming across relates to your grammar and logic within the code. I would advise you to double-check and make sure that all your words are written correctly. Also your line 
 Hope this helps!
+
 ---
-I just tried that and now it works, thank you so much!
+I just looked back and found the spelling errors !
 ![Image](works.PNG)
 ---
 Part 2
