@@ -6,8 +6,8 @@ Part 1
 ![Image](download.png)Tam Kim
 ---
 Hello, I am currently trying to use `bash` to test `ListExamples.java`, however, I keep running into these error messages and I am unsure of what it is trying to ask me.
-![Image](error.PNG)
-![Image](error2.PNG)
+![Image](wrong.PNG)
+![Image](wrong2.PNG)
 ---
 1 Answer
 ![Image](download.png) TA
