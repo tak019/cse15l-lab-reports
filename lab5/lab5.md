@@ -16,6 +16,6 @@ Hi Tam,
 It seems that the error that you are coming across is due to being in the wrong directory, try to `cd` out of `error` and then try to vim from there.
 
 Hope this helps!
-
-
+---
+![Image](works.PNG)
 
