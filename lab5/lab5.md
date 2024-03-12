@@ -24,11 +24,12 @@ Oh sorry here is my code
 ![Image](download.png) TA
 Hi Tam, 
 
-It seems that the error you are coming across relates to your grammar and logic within the code. I would advise you to double-check and make sure that all your words are written correctly. Also your line 
+It seems that the error you are coming across relates to your grammar and logic within the code. I would advise you to double-check and make sure that all your words are written correctly. Also you should take a look at your first `result.add`. 
 Hope this helps!
 
 ---
-I just looked back and found the spelling errors !
-![Image](works.PNG)
+I just looked back and found the spelling errors and fixed the indexing for the `result.add`. Thank you so much!
+![Image](works1.PNG)
+![Image](works2.PNG)
 ---
 Part 2
