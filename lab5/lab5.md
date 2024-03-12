@@ -5,7 +5,7 @@ Part 1
 
 ![Image](download.png)Tam Kim
 ---
-Hello, I am currently trying to use `bash` to test `ListExamples.java`, however every time I try to vim, it produces a blank document with no code on it.
+Hello, I am currently trying to use `bash` to test `ListExamples.java`, however, I keep running into these error messages and I am unsure of what it is trying to ask me.
 ![Image](error.PNG)
 ![Image](error.PNG)
 ---
