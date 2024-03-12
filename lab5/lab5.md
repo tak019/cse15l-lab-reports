@@ -7,14 +7,23 @@ Part 1
 ---
 Hello, I am currently trying to use `bash` to test `ListExamples.java`, however, I keep running into these error messages and I am unsure of what it is trying to ask me.
 ![Image](wrong.PNG)
-![Image](wrong2.PNG)
 ---
 1 Answer
 ![Image](download.png) TA
+Hi Tam,
 
+Would you provide me with your code so I can take a look at it?
+
+---
+![Image](download.png)Tam Kim
+
+Oh sorry here is my code
+![Image](wrong2.PNG)
+
+![Image](download.png) TA
 Hi Tam, 
 
-It seems that the error that you are coming across is due to being in the wrong directory, try to `cd` out of `error` and then try to vim from there.
+It seems that the error you are coming across relates to your grammar and logic within the code. I would advise you to double-check and make sure that all your words are written correctly.
 
 Hope this helps!
 ---
