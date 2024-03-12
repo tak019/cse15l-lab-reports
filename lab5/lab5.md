@@ -12,19 +12,19 @@ Hello, I am currently trying to use `bash` to test `ListExamples.java`, however,
 ---
 1 Answer
 
-![Image](download.png) TA
+![Image](pfp.png) TA
 
 Hi Tam,
 
 Would you provide me with your code so I can take a look at it?
 
 ---
-![Image](download.png)Tam Kim
+![Image](pfp.png)Tam Kim
 
 Oh sorry here is my code
 ![Image](wrong2.PNG)
 
-![Image](download.png) TA
+![Image](pfp.png) TA
 
 Hi Tam, 
 
