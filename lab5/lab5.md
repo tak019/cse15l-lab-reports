@@ -2,6 +2,6 @@
 
 Can't vim into ListExamples
 
-$${\color{orange}Tam Kim}$$
+<code style="color : Darkorange">Tam Kim</code>
 
 Hello I am currently trying to use vim on ListExamples.java, however every time I try to vim, it produces a blank document with no code on it.
