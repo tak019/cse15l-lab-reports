@@ -33,9 +33,11 @@ Hope this helps!
 
 ---
 
-I just looked back and found the spelling errors and fixed the indexing for the `result.add`. Thank you so much!
+I just looked back and fixed the spelling and grammatical errors within my `ListExamplesTest.java` file and the indexing with my `result.add` function. Thank you so much!
 ![Image](works2.PNG)
 ![Image](works1.PNG)
 
 ---
 Part 2
+Reflection:
+Throughout this quarter, I have gained a lot of knowledge and skills from labs and lecture. For example, before this I had never touched `vim`, let alone `bash` before and because of the labs, I feel that I have gained a good understanding of how to use them.
