@@ -3,7 +3,7 @@ Part 1
 
 ## Can't get testers to work
 
-![Image](download.png)Tam Kim
+![Image](pfp.png)Tam Kim
 ---
 
 Hello, I am currently trying to use `bash` to test `ListExamples.java`, however, I keep running into these error messages and I am unsure of what it is trying to ask me.
